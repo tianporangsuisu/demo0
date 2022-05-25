@@ -1,0 +1,65 @@
+.nav{
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    width: 18vw;
+    height: 88vh;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.body{
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    padding: 0;
+    width: 78vw;
+    height: 88vh;
+    background: white;
+    border-radius: 20px;
+}
+
+.header{
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    padding: 20px;
+    float: top;
+    width: 98vw;
+    height: 8vh;
+    background: white;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 20px;
+}
+
+.common-layout{
+    height: 100vh;
+    width: 100vw;
+}
+
+.full{
+    font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB',
+    'Microsoft YaHei', '微软雅黑', Arial, sans-serif;
+}
+
+.login{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background: url("../assets/login_1.jpg");
+    display: flex;
+}
+.input{
+    width: 25vw;
+
+}
+
+.showPage{
+    text-align: center;
+}
